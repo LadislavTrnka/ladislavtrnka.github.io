@@ -1,4 +1,4 @@
-### Ladislav Trnka
+## Ladislav Trnka
 
 I am a student at Faculty of Mathematics and Physics of the Charles University. 
 
