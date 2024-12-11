@@ -19,7 +19,7 @@ layout: default
     * Supervisor: [Doc. Mgr. Vít Průša, Ph.D.](https://www.karlin.mff.cuni.cz/~prusv/)
 
 * **09/2019-06/2022**&emsp;Bachelor degree with honours, [Mathematical Modelling](https://mod.karlin.mff.cuni.cz/study/mathematical-modelling-bc/), Charles University, Faculty of Mathematics and Physics
-    * Thesis title: [_Spectral collocation methods in solid mechanics_](https://dspace.cuni.cz/handle/20.500.11956/173829?locale-attribute=en)
+    * Thesis title: [_Spectral collocation methods in solid mechanics_](https://dspace.cuni.cz/bitstream/handle/20.500.11956/173829/130332530.pdf?sequence=1&isAllowed=y)
     * Supervisor: [Doc. Mgr. Vít Průša, Ph.D.](https://www.karlin.mff.cuni.cz/~prusv/)
 
 {% include images.html url="fig/spectral_col_met.png" description="Deflection of a semi-infinite elastic solid by
