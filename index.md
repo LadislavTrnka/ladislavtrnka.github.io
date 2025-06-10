@@ -33,7 +33,9 @@ a surface load" %}
 
 ## Preprints
 
-* Jan Blechta, Vít Průša, Ladislav Trnka, and Karel Tůma. Fast construction of the discrete green operator for a second order ordinary differential equation, 2024. URL [https://arxiv.org/abs/2412.06242](https://arxiv.org/abs/2412.06242)
+* Vít Průša, K. R. Rajagopal, Casey Rodriguez, **Ladislav Trnka**, and Martin Vejvoda. Modeling metamaterials by second-order rate-type constitutive relations between only the macroscopic stress and strain, 2025. URL [arxiv.org/abs/2502.10045](https://arxiv.org/abs/2502.10045)
+
+* Jan Blechta, Vít Průša, **Ladislav Trnka**, and Karel Tůma. Fast construction of the discrete green operator for a second order ordinary differential equation, 2024. URL [arxiv.org/abs/2412.06242](https://arxiv.org/abs/2412.06242)
 
 ## Research experience
 
