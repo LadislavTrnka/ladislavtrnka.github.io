@@ -39,7 +39,7 @@ layout: default
 
 ## Research experience
 
-*  **08-09/2025**&emsp;**Scientific intern** at the [Hof group](https://ist.ac.at/en/research/hof-group), [Institute of Science and Technology Austria](https://ista.ac.at/en/home).
+*  **08-09/2025**&emsp;**Scientific intern** at the [Hof group](https://ist.ac.at/en/research/hof-group), [Institute of Science and Technology Austria](https://ista.ac.at/en/home)
 
 *  **02/2023-12/2024**&emsp;**Team researcher**, <a href="https://www.karlin.mff.cuni.cz/~mbul8060/expro2020/info.html" class="mff">_Mathematical analysis of partial differential equations describing far-from-equilibrium open systems in continuum thermodynamics_</a>, Czech Science Foundation, EXPRO 20-11027X, Principal investigator <a href="https://www.karlin.mff.cuni.cz/~mbul8060/" class="mff">Doc. RNDr. Miroslav Bulíček, Ph.D.</a>
 
@@ -48,15 +48,13 @@ layout: default
 
 ## Recent talks, posters
 
-* **2025**&emsp;<a href="https://noveltrends.ft.utb.cz/" class="mff">Novel Trends in Rheology X</a>, Faculty of Technology, Tomas Bata University in Zlín, July 30-31, Zlín, Czech Republic, <a href="conferences/poster_NTRX_2025.pdf" class="mff">poster</a>
+* **2025**&emsp;<a href="https://noveltrends.ft.utb.cz/" class="mff">Novel Trends in Rheology X</a>, Faculty of Technology, Tomas Bata University in Zlín, July 30-31, Zlín, Czech Republic, <a href="conferences/poster_NTRX_2025.pdf" class="mff">poster <i class="fa fa-download"></i></a>
 
-<a href="" class="mff"></a>
+* **2024**&emsp;<a href="https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html" class="mff">Modelling, PDE Analysis and Computational Mathematics in Materials Science</a>, Faculty of Mathematics and Physics, Charles University, September 22-27, Prague, Czech Republic, <a href="conferences/poster_mpde2024.pdf" class="mff">poster <i class="fa fa-download"></i></a>
 
-* **2024**&emsp;<a href="https://www.karlin.mff.cuni.cz/~prusv/ncmm/conference/mpde/info.html" class="mff">Modelling, PDE Analysis and Computational Mathematics in Materials Science</a>, Faculty of Mathematics and Physics, Charles University, September 22-27, Prague, Czech Republic, <a href="conferences/poster_mpde2024.pdf" class="mff">poster</a>
+* **2024**&emsp;<a href="https://hpcse.it4i.cz/HPCSE24/" class="mff">High Performance Computing in Science and Engineering Conference</a>, IT4Innovations National Supercomputing Center, VSB (Technical University of Ostrava), May 20-23, Karolinka, Czech Republic, <a href="conferences/poster_hpcse2024.pdf" class="mff">poster <i class="fa fa-download"></i></a>
 
-* **2024**&emsp;<a href="https://hpcse.it4i.cz/HPCSE24/" class="mff">High Performance Computing in Science and Engineering Conference</a>, IT4Innovations National Supercomputing Center, VSB (Technical University of Ostrava), May 20-23, Karolinka, Czech Republic, <a href="conferences/poster_hpcse2024.pdf" class="mff">poster</a>
-
-* **2024**&emsp;<a href="https://ems-maff.cuni.cz/" class="mff">EMS School, Mathematical Aspects of Fluid Flows</a>, EMS (European Mathematical Society), Faculty of Mathematics and Physics, Charles University, May 12-17, Kácov, Czech Republic, <a href="conferences/kacov2024.pdf" class="mff">slides</a>
+* **2024**&emsp;<a href="https://ems-maff.cuni.cz/" class="mff">EMS School, Mathematical Aspects of Fluid Flows</a>, EMS (European Mathematical Society), Faculty of Mathematics and Physics, Charles University, May 12-17, Kácov, Czech Republic,<br><a href="conferences/kacov2024.pdf" class="mff">slides <i class="fa fa-download"></i></a>
 
 
 <br>
