@@ -16,11 +16,11 @@ layout: default
 * **09/2025-present**&emsp;PhD student, [Institute of Science and Technology Austria (ISTA)](https://ista.ac.at/en/home)
 
 * **09/2022-06/2025**&emsp;Master's degree with honours, <a href="https://mod.karlin.mff.cuni.cz/study/modelling-mathematics/" class="mff">Mathematical Modelling in Physics and Technology</a>, Charles University, Faculty of&nbsp;Mathematics and Physics
-    * Thesis title: <a href="https://dodo.is.cuni.cz/bitstream/handle/20.500.11956/199965/120506020.pdf?sequence=1&isAllowed=y" class="mff">_Bifurcation analysis of viscoelastic flows using deflation method_</a>
+    * Thesis title: <a href="https://dodo.is.cuni.cz/bitstream/handle/20.500.11956/199965/120506020.pdf?sequence=1&isAllowed=y" class="mff">_Bifurcation analysis of viscoelastic flows using deflation method_ <i class="fa fa-download"></i></a>
     * Supervisor: <a href="https://www.karlin.mff.cuni.cz/~prusv/" class="mff">Doc. Mgr. Vít Průša, Ph.D.</a>  
 
 * **09/2019-06/2022**&emsp;Bachelor's degree with honours, <a href="https://mod.karlin.mff.cuni.cz/study/mathematical-modelling-bc/" class="mff">Mathematical Modelling</a>, Charles University, Faculty of&nbsp;Mathematics and Physics
-    * Thesis title: <a href="https://dspace.cuni.cz/bitstream/handle/20.500.11956/173829/130332530.pdf?sequence=1&isAllowed=y" class="mff">_Spectral collocation methods in solid mechanics_</a>
+    * Thesis title: <a href="https://dspace.cuni.cz/bitstream/handle/20.500.11956/173829/130332530.pdf?sequence=1&isAllowed=y" class="mff">_Spectral collocation methods in solid mechanics_ <i class="fa fa-download"></i></a>
     * Supervisor: <a href="https://www.karlin.mff.cuni.cz/~prusv/" class="mff">Doc. Mgr. Vít Průša, Ph.D.</a>
 
 {% include images.html url="fig/spectral_col_met.png" description="Deflection of a semi-infinite elastic solid by a surface load" %}
