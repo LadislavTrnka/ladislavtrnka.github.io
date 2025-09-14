@@ -39,7 +39,7 @@ layout: default
 
 ## Research experience
 
-*  **08-09/2025**&emsp;**Scientific intern** at the [Hof group](https://ist.ac.at/en/research/hof-group), [Institute of Science and Technology Austria](https://ista.ac.at/en/home)
+*  **08-09/2025**&emsp;**Scientific intern** at the [Hof group](https://ist.ac.at/en/research/hof-group), Prof. Björn Hof, [Institute of Science and Technology Austria](https://ista.ac.at/en/home)
 
 *  **02/2023-03/2025**&emsp;**Team researcher**, <a href="https://www.karlin.mff.cuni.cz/~mbul8060/expro2020/info.html" class="mff">_Mathematical analysis of partial differential equations describing far-from-equilibrium open systems in continuum thermodynamics_</a>, Czech Science Foundation, EXPRO 20-11027X, Principal investigator <a href="https://www.karlin.mff.cuni.cz/~mbul8060/" class="mff">Doc. RNDr. Miroslav Bulíček, Ph.D.</a>
 
